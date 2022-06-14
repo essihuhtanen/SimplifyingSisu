@@ -1,0 +1,9 @@
+{
+  "name": "SaveTest",
+  "id": "ST",
+  "degree programme": "otm-d2728f44-3e53-4bad-84c4-dbd257ac0f34",
+  "courses": [
+    "otm-1bc90ca6-13a3-4c54-92b0-7bf44363fa97",
+    "otm-231114cf-d78e-4828-846c-dc700d94ff0d"
+  ]
+}
